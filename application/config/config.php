@@ -64,7 +64,7 @@ $config['uri_protocol']	= 'REQUEST_URI';
 |
 | https://codeigniter.com/userguide3/general/urls.html
 |
-| Note: This option is ignored for CLI requests.
+| Note: This option is ignored for CLI requests
 */
 $config['url_suffix'] = '';
 
